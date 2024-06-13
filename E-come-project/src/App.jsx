@@ -1,8 +1,9 @@
+import Login from "./assets/Login"
 
 function App() {
   return (
     <>
-     
+     <Login/>
     </>
   )
 }
